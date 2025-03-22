@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chandrakant-Sahu
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN
+- 👀 I’m a web development enthusiast
+- 🌱 I have experience in MEAN stack development along with AWS Lambda
 - 💞️ I’m looking to collaborate on web development
 
 
